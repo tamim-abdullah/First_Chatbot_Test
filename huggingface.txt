@@ -1,0 +1,5 @@
+tmm313Huggingface
+token: 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
+
+aws:
+root user pass: tmm_313_Aws
